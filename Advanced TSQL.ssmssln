@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Advanced TSQL", "Advanced TSQL\Advanced TSQL.ssmssqlproj", "{78901251-B45D-4139-B9AC-478A388F49DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78901251-B45D-4139-B9AC-478A388F49DF}.Default|Default.ActiveCfg = Default
+		{B1CC7A82-66CF-4089-8D9D-2D75641375A3}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
